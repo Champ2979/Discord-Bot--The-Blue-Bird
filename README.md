@@ -45,5 +45,5 @@ resume and make them ready for their interviews for good placements and good lif
 <p>In order to complete the work efficiently and in the given time frame, we divided the workload 
 equally. One member was supposed to read the research papers and was provided with 
 documentation work. Second member was created the server, made various channels, added 
-the bot Other two members worked on the coding part.</p>
+the bot Other two members worked on the coding part. I was in coding part and server setup</p>
 
